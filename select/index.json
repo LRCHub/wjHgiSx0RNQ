@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Robbers",
+  "base_artist": "The 1975",
+  "createdAt": "2026-03-18T20:07:57.649025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Grave Robbers",
+      "artist": "Mount Eerie, Julie Doiron & Fred Squire",
+      "has_synced": true,
+      "path": "select/01_Grave_Robbers_Mount_Eerie,_Julie_Doiron_&_Fred_Squire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stem (Cops 'n' Robbers Mix)",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/02_Stem_(Cops_'n'_Robbers_Mix)_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stem (Cops ’n’ Robbers mix)",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/03_Stem_(Cops_’n’_Robbers_mix)_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stem (Cops & Robbers)",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/04_Stem_(Cops_&_Robbers)_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "44 Robbers",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/05_44_Robbers_Laika.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Robbers",
+      "artist": "The Motels",
+      "has_synced": false,
+      "path": "select/06_Little_Robbers_The_Motels.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Robbers",
+      "artist": "Koopsta Knicca",
+      "has_synced": false,
+      "path": "select/07_Robbers_Koopsta_Knicca.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Robbers",
+      "artist": "Koopsta Knicca",
+      "has_synced": true,
+      "path": "select/08_Robbers_Koopsta_Knicca.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Robbers",
+      "artist": "Cold War Kids",
+      "has_synced": false,
+      "path": "select/09_Robbers_Cold_War_Kids.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cops And Robbers - Blues In Rhythm / 1964",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/10_Cops_And_Robbers_-_Blues_In_Rhythm___1964_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little Robbers",
+      "artist": "Motels",
+      "has_synced": true,
+      "path": "select/11_Little_Robbers_Motels.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cops and Robbers",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": true,
+      "path": "select/12_Cops_and_Robbers_George_Thorogood_&_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cops and Robbers",
+      "artist": "George Thorogood",
+      "has_synced": false,
+      "path": "select/13_Cops_and_Robbers_George_Thorogood.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cops And Robbers",
+      "artist": "George Thorogood And The Destroyers",
+      "has_synced": true,
+      "path": "select/14_Cops_And_Robbers_George_Thorogood_And_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cops & Robbers (Live)",
+      "artist": "The Hoosiers",
+      "has_synced": false,
+      "path": "select/15_Cops_&_Robbers_(Live)_The_Hoosiers.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Robbers",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/16_Robbers_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Robbers",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/17_Robbers_The_1975.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Robbers",
+      "artist": "The 1975",
+      "has_synced": false,
+      "path": "select/pl_01_Robbers_The_1975.txt"
+    }
+  ]
+}
